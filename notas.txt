@@ -1,0 +1,20 @@
+//Ejercicios a realizar :
+
+//Se debe de utilizar
+//- Scanner reader = new Scanner(System.in);
+//- System.out.println
+//1- Solicitar al usuario 4 números enteros y calcular el mayor y
+//menor de ellos.
+
+//Indicaciones :
+//1- Análisis (lluvia de ideas)
+//2- Solución (flujo)
+//3- Codificar (java)
+
+//Utilizar : if, while, do while, for, operadores lógicos (and , or, not)
+
+//1- NO se aceptan números negativos ni cero y deben ser diferentes , debe de solicitarlo nuevamente si no se cumplen.
+//2- Si la sumatoria de los numero es mayor o igual 200 no se puede continuar con la ejecución, debe de solicitar nuevamente los 4 números, si no se cumplen.
+//3- Para el numero mayor se debe de sumar 10 , si el numero menor es mayor a 10.
+//4- Para el numero menor se debe de restar 5, si el numero mayor es menor a 50
+//5- Las impresiones de los resultados se realizan en pantalla, consola.
